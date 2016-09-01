@@ -1,2 +1,2 @@
 # goshow
-Goshow is cms like huxiu
+Goshow is cms like huxiu.
